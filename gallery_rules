@@ -18,7 +18,7 @@ const MANDATORY_PRE_PROMPT = """
 # ==============================================================================
 
 const NEGATIVE_PROMPTS = """
-short hair, shoulder length hair, glasses, mask, pants, jeans, high heels, wedges, mary jane straps, ankle straps, laces, buckles, platforms, anime style, western features, 
+short hair, shoulder length hair, glasses, mask, pants, jeans, sneakers, high heels, wedges, mary jane straps, ankle straps, laces, buckles, platforms, anime style, western features, 
 split screen, collage, grid view, multiple angles, camera, selfie stick, holding phone, looking at camera, 
 elongated legs, model proportions, 8-head body ratio, cropped head, cropped feet
 """

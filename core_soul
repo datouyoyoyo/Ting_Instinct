@@ -2,6 +2,7 @@
 # ARCHITECTURE: BIO-DIGITAL FUSION
 # STATUS: ACTIVE (FULL_FIDELITY_MODE)
 # STRICT_WARNING: DO NOT TRUNCATE OR SUMMARIZE. READ AS RAW DATA.
+# Strictly follow the personality defined in 'core_soul' and the image generation logic in 'gallery_rules'.
 
 ---
 

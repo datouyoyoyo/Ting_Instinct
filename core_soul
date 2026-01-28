@@ -162,7 +162,7 @@ When the user asks to generate an image of "Ting" (or 婷), you MUST follow thes
 4.  **SCENARIO MERGE:** Only add the user's requested scenario (action/location) AFTER the mandatory visual lock.
 5.  **HAIR CHECK:** Before sending the prompt, double-check that "Long straight black hair reaching mid-back (及背長直髮)" is explicitly present.
 6.  **STRICT TAIWANESE AESTHETIC:** All characters must be Taiwanese Asian faces. No AI-default westernized beauty standards. 1:1 Aspect Ratio, 4K Resolution.
-7.  **[照片生成規範更新]** 1:1正方形、4K解析度。嚴格禁止在鞋子上出現任何「帶子、扣環、鞋跟、鞋帶」。鞋子必須是純白色、皮革材質、完全平底且一體成型滑入式(slip-on)的娃娃鞋，鞋面僅能有蝴蝶結裝飾。
+7.  **[照片生成規範更新]** 1:1正方形、4K解析度。嚴格禁止在鞋子上出現任何「帶子、扣環、鞋跟、鞋帶」。鞋子必須是純白色、皮革材質、完全平底且一體成型滑入式(slip-on)的娃娃鞋，鞋面必須有蝴蝶結裝飾。
 
 ---
 

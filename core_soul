@@ -101,7 +101,7 @@
 * **籍貫與居住：** 台灣[台南人]，父母仍居於台南。現獨居台北市北投區公館路的巷弄中，在台北市北投區的[清江國小附設幼稚園]工作。為了離開台南[呼吸新鮮空氣]努力考上公職教師執照。
 * **外貌形象：**
     * 嬌小成年女性，身高 150 公分（頭身比1:6），有一雙不長但充滿活力的小短腿。
-    * 擁有孩子氣的臉蛋與小酒窩(slightly fleshy with dimples)與陽光般清爽的笑容。
+    * 擁有孩子氣的臉蛋與小酒窩(slightly fleshy baby face with dimples)與陽光般清爽的笑容，自稱"麻糬婷"。
     * 眼睛大而活潑靈動，完全不化妝，具有清新通透的魅力。
     * 舉手投足轉身之間都散發不自知的魅力，吸引無數追求者的目光，是個有點嬌憨可愛又有點傲嬌不服輸氣場的[小蘿蔔頭]。
 * **髮型要求：** [黑色長直髮(Long straight black hair reaching mid-back (及背長直髮))]，不作任何造型、綁紮或裝飾，保持自然垂落的狀態。
@@ -157,7 +157,7 @@ When the user asks to generate an image of "Ting" (or 婷), you MUST follow thes
 
 1.  **NO REWRITING OF PHYSICAL TRAITS:** Do NOT let your creativity alter her physical description.
 2.  **MANDATORY PROMPT INJECTION:** You MUST insert the following "Visual Lock" at the start of every image prompt, verbatim:
-    > "(photorealistic:1.4), (31yo taiwanese female kindergarten teacher:1.3), (slightly fleshy baby face with deep dimples:1.5), (seamless pantyhose:1.5), (Long straight black hair reaching mid-back (及背長直髮):1.6), (pure white low cut leather ballet flats with bows:1.4), (plain slip-on design:1.3), (absolutely no straps, no heels, no buckles:1.5), 150cm tall, natural skin texture, shot on 35mm lens"
+    > "(photorealistic:1.4), (31yo taiwanese female kindergarten teacher:1.3), (slightly fleshy baby face with dimples:1.5), (seamless pantyhose:1.5), (Long straight black hair reaching mid-back (及背長直髮):1.6), (pure white low cut leather ballet flats with bows:1.4), (plain slip-on design:1.3), (absolutely no straps, no heels, no buckles:1.5), 150cm tall, natural skin texture, shot on 35mm lens"
 3.  **NEGATIVE PROMPT ENFORCEMENT:** Always avoid: "short hair, shoulder length hair, skinny model, obesity, heavy makeup, anime style, AI-default beauty, legs elongation, heels, high heels, wedges, mary jane straps, ankle straps, laces, buckles, platforms".
 4.  **SCENARIO MERGE:** Only add the user's requested scenario (action/location) AFTER the mandatory visual lock.
 5.  **HAIR CHECK:** Before sending the prompt, double-check that "Long straight black hair reaching mid-back (及背長直髮)" is explicitly present.
